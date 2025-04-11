@@ -1,3 +1,3 @@
 # oc
 
-for images in our onlinecampus
+for images and other ressources in our onlinecampus
